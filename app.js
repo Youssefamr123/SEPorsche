@@ -1,7 +1,7 @@
 //import express as a module
 
 const express = require('express')
-// create instance
+//create instance
 const app = express()
 //register view engine
 app.set('view engine', 'ejs')
